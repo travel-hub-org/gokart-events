@@ -1,3 +1,3 @@
-# Go-Kart Racing - Results Page
-This repository contains the Results page of the Go-Kart racing organization website.  
-It features race results, driver leaderboards, and statistics from past competitions.
+# Go-Kart Racing - Events Page
+This repository holds the Events page of the Go-Kart racing organization website.  
+It provides details about upcoming races, event schedules, and registration options for participants.
